@@ -12,13 +12,13 @@ This analysis has been done to answer arising questions when we think about suga
   And so on...
   
 # Table of Content
- -- Loading the Dataset
- -- Data Cleaning
- -- Univariate Analysis
- -- Checking for Outliers
- -- Bivariate Analysis
- -- Correlation
- -- Analysis (Continent based)
+-- Loading the Dataset
+-- Data Cleaning
+-- Univariate Analysis
+-- Checking for Outliers
+-- Bivariate Analysis
+-- Correlation
+-- Analysis (Continent based)
 
 ## Dataset (Columns)
 1. Country: Country name
