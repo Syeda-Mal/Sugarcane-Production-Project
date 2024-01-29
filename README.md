@@ -12,15 +12,15 @@ This analysis has been done to answer arising questions when we think about suga
   And so on...
   
 # Table of Content
--- Loading the Dataset
--- Data Cleaning
--- Univariate Analysis
--- Checking for Outliers
--- Bivariate Analysis
--- Correlation
--- Analysis (Continent based)
+ -- Loading the Dataset
+ -- Data Cleaning
+ -- Univariate Analysis
+ -- Checking for Outliers
+ -- Bivariate Analysis
+ -- Correlation
+ -- Analysis (Continent based)
 
-# Dataset (Columns)
+## Dataset (Columns)
 1. Country: Country name
 2. Continent: Continent of the country
 3. Production(Tons): Total sugarcane production in tons
@@ -30,9 +30,9 @@ This analysis has been done to answer arising questions when we think about suga
 
 ## Data Cleaning
 The dataset underwent a cleaning process to ensure accuracy and consistency:
--> Removed dots and replaced commas for better numerical representation
--> Converted data types to appropriate formats
--> Handled missing values by dropping relevant entries
+ -> Removed dots and replaced commas for better numerical representation
+ -> Converted data types to appropriate formats
+ -> Handled missing values by dropping relevant entries
 
 ## Exploratory Data Analysis
 ### Univariate Analysis
