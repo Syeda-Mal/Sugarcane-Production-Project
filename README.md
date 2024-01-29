@@ -37,9 +37,11 @@ This analysis has been done to answer arising questions when we think about suga
 ## Data Cleaning
 The dataset underwent a cleaning process to ensure accuracy and consistency:
  -> Removed dots and replaced commas for better numerical representation
+ 
  -> Converted data types to appropriate formats
+ 
  -> Handled missing values by dropping relevant entries
-
+ 
 ## Exploratory Data Analysis
 ### Univariate Analysis
 Explored individual columns to understand their distribution and characteristics.
